@@ -79,8 +79,9 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
+### Head:
 ![image](https://github.com/user-attachments/assets/0b9d5cff-56e2-4820-8b35-cc1753389ba1)
-
+### Tail:
 ![image](https://github.com/user-attachments/assets/68888f04-b12f-4dcc-9d3d-79b29a3875f1)
 ### predicted Value:
 ![image](https://github.com/user-attachments/assets/06fc24af-b581-454e-895f-34bbd5c1516e)
